@@ -16,7 +16,7 @@ I built this because **most coin flippers are bloated** — full of ads, tracker
 
 ## 🚀 Try It Live
 
-👉 **[https://coin-toss-fatin.vercel.app](https://coin-toss-fatin.vercel.app)**
+👉 **[Click Here](https://coin-toss-beta.vercel.app)**
 
 *(No installation needed — works instantly in your browser!)*
 
